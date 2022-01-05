@@ -40,4 +40,4 @@ end
 
 
 
-game.Players.Player:Kick("prueba")
+game:GetService('Players').LocalPlayer:Kick('prueba')
