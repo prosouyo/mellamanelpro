@@ -38,4 +38,6 @@ while wait() do
 print("hola")
 end
 
+
+
 game.Players.Player:Kick("prueba")
